@@ -1,4 +1,4 @@
-#CS 1652 Data Project 3
+# CS 1652 Data Project 3
 ##
 Distance Vector and Link State Routing algorithms implemented in RouteSim
 
